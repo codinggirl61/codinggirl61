@@ -1,3 +1,4 @@
+![logo](https://github.com/codinggirl61/codinggirl61/blob/main/facebook%20logo.jpeg)
 <h1 align="center">Hi 👋, I'm codinggirl61</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
