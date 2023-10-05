@@ -1,6 +1,8 @@
 ![logo](https://github.com/codinggirl61/codinggirl61/blob/main/facebook%20logo.jpeg)
 <h1 align="center">Hi 👋, I'm codinggirl61</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/codinggirl61/codinggirl61/assets/147056708/28b73d9f-3fe3-46e1-8007-626199c3ea0c)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codinggirl61&label=Profile%20views&color=0e75b6&style=flat" alt="codinggirl61" /> </p>
 
